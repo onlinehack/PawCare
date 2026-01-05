@@ -1,0 +1,7 @@
+{
+  "name": "PawCare Plus",
+  "description": "A multi-pet management application for tracking food inventory, health profiles, and customized ordering.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
